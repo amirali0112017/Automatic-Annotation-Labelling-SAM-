@@ -1,2 +1,3 @@
 # Automatic-Annotation-Labelling-SAM-
 Segment Anything Model is trained on small dataset to generate labelled/annotated large dataset with Manual Annotations.
+first SAM model is trained on a small dataset of around 180 manually annotated images and then trained SAM model is used for automatic annotation by segmentation method for a large dataset of aroung 10000 images. so this is an automatic tool that we have developed for our project of tracking earthworm. so we wanted to use deep learning that required a large dataset, so manually annotation of a large dataset is a hectic and time consuming process.
